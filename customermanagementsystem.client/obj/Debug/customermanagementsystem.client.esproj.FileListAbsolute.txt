@@ -1,0 +1,2 @@
+G:\My Project\CustomerManagementSystem\customermanagementsystem.client\obj\Debug\customermanagementsystem.client.esproj.CoreCompileInputs.cache
+E:\Masum's file\CustomerManagementSystem\CustomerManagementSystem\customermanagementsystem.client\obj\Debug\customermanagementsystem.client.esproj.CoreCompileInputs.cache

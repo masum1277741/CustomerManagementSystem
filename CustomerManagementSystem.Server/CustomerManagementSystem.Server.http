@@ -1,0 +1,6 @@
+@CustomerManagementSystem.Server_HostAddress = http://localhost:5217
+
+GET {{CustomerManagementSystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
